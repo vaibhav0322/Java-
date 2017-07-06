@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 /**
- * Created by xtantransh on 5/7/17.
+ * Created by xtantransh on 5/7/17....
  */
 public class CollegeGrade {
 
